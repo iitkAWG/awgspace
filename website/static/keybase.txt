@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/haozeke
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://iitkanimalwelfare.space
+  * I am haozeke (https://keybase.io/haozeke) on keybase.
+  * I have a public key ASD16mK22mUSUpxjZqrfdWQNoaQjf6SH2mhJsmi4B_J2jAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208ed13a74c208e57451702e57550c266f31f877ea9d2786b13e00769e447447d00a",
+      "host": "keybase.io",
+      "kid": "0120f5ea62b6da6512529c6366aadf75640da1a4237fa487da6849b268b807f2768c0a",
+      "uid": "8ca27cf24cf6c9de4076b171e8004019",
+      "username": "haozeke"
+    },
+    "merkle_root": {
+      "ctime": 1567825099,
+      "hash": "14365c516f2272b8fca6ed0b71e9fd99517e6f6aed012044a1a01667a305319f5d380f7036b0e6be9a246d8a6c926baffe71ed671992f5591d18af667ead4795",
+      "hash_meta": "ab1732a21cbce1e5be0bdabe5d54395a754309571630b5079dcd2d6006210b4e",
+      "seqno": 6192065
+    },
+    "service": {
+      "entropy": "cgtDGTU+rfefL53IA8ywJdAa",
+      "hostname": "iitkanimalwelfare.space",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1567825042,
+  "expire_in": 504576000,
+  "prev": "26e8ea19fee1380d07c2c0fbeb1d9f4b50246c51ea807951c15b52f888ea9f16",
+  "seqno": 90,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9epittplElKcY2aq33VkDaGkI3+kh9poSbJouAfydowKp3BheWxvYWTESpcCWsQgJujqGf7hOA0HwsD76x2fS1AkbFHqgHlRwVtS+IjqnxbEII2LmHHezFYWg/eD9IXY2P7N/Dc3f5x1pXkCfsdWPHlNAgHCo3NpZ8RArT9k7SGxQ4OUxqfGT98RcI5bMv5J+y958qatpHcD2R5PrRRZ2haVZDsdTdA6I//RPSnfq9rfznuVZ3PKepMHBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPZ1bBPUzsg8rlirj2oYXPERujJuCODNzUSqBSBtZeGao3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/haozeke
+
+==================================================================
